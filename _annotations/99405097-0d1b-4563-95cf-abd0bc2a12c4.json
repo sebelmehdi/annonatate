@@ -1,0 +1,49 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_020"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Heads of flies",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-10-29T09:07:31.605Z",
+            "modified": "2025-10-29T09:07:39.028Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Esteban 1",
+            "purpose": "tagging",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-10-29T09:08:07.679Z",
+            "modified": "2025-10-29T09:08:13.623Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_020/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_020",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2184.512451171875,1668.9183349609375,2167.558349609375,1353.4520263671875"
+        }
+    },
+    "id": "99405097-0d1b-4563-95cf-abd0bc2a12c4.json",
+    "motivation": "commenting"
+}
