@@ -1,0 +1,49 @@
+---
+canvas: "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/11"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "An English version of \"De materia medica\"",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-10-29T09:37:10.730Z",
+            "modified": "2025-10-29T09:37:47.074Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Esteban1",
+            "purpose": "tagging",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-10-29T09:37:52.345Z",
+            "modified": "2025-10-29T09:38:02.503Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sebelmehdi.github.io/annonatate/manifests/iiif/MS-TRINITY-O-00007-00045/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/11",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=905.9585571289062,433.8795166015625,2724.9349975585938,321.453369140625"
+        }
+    },
+    "id": "c44550b6-7863-4708-b0dc-eae98b7eba59.json",
+    "motivation": "commenting"
+}
