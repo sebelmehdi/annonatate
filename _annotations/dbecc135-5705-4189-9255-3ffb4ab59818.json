@@ -1,0 +1,48 @@
+---
+canvas: "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/12"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Vertical marginal annotation",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-10-29T09:45:28.549Z",
+            "modified": "2025-10-29T09:46:02.294Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Esteban2",
+            "purpose": "tagging",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-10-29T09:46:12.227Z",
+            "modified": "2025-10-29T09:46:15.874Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sebelmehdi.github.io/annonatate/manifests/iiif/MS-TRINITY-O-00007-00045/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/12",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"3517.1484375,1008.62158203125 2354.97119140625,1246.00244140625 2473.66162109375,3224.424072265625 2478.60693359375,3224.424072265625 2557.734130859375,3194.751708984375 3497.36669921875,3209.587890625 3522.093994140625,3199.697021484375\"></polygon></svg>"
+        }
+    },
+    "id": "dbecc135-5705-4189-9255-3ffb4ab59818.json",
+    "motivation": "commenting"
+}
