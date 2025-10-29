@@ -1,0 +1,4504 @@
+---
+added: '2025-10-29 09:13:43.260283'
+thumbnail: ''
+title: ''
+user: sebelmehdi
+
+---
+{
+  "viewingDirection": "left-to-right",
+  "metadata": [
+    {
+      "label": "Binding",
+      "value": "<p>18th-century binding with grey paper covering over couched-laminate boards, with a white parchment spine and plain pastedowns. The classmark appears on the spine on patches.</p><p> Binding height: 190 mm, width: 158 mm, depth: 20 mm. </p>"
+    },
+    {
+      "label": "Origin",
+      "value": "The manuscript was probably completed on 10 July 1642, as suggested by the date on <a href='' onclick='store.loadPage(13);return false;'>f. 1r</a>. This would be consistent with the script and materials."
+    },
+    {
+      "label": "Condition",
+      "value": "There are small tears from the edges of ff. <a href='' onclick='store.loadPage(7);return false;'>[c]</a>, <a href='' onclick='store.loadPage(9);return false;'>i-ii</a> and <a href='' onclick='store.loadPage(153);return false;'>+1-+2</a>, and minor wear and tear to edges elsewhere. There is some creasing and areas of dirt, extensive in the outermost folios."
+    },
+    {
+      "label": "Script",
+      "value": "<div style='list-style-type: disc;'><div style='display: list-item; margin-left: 20px;'><p>The Greek text was copied in a western European <i>mixed minuscule</i> script, slanting to the right, in brown ink.</p><p>Punctuation used includes the lower, middle and upper points.</p></div></div>"
+    },
+    {
+      "label": "Physical Location",
+      "value": "Trinity College Library, Cambridge"
+    },
+    {
+      "label": "Extent",
+      "value": "Codex iii + 2 + 70 + 2 + iii Leaf height: 180 mm, width: 152 mm."
+    },
+    {
+      "label": "Funding",
+      "value": "The Polonsky Foundation"
+    },
+    {
+      "label": "Abstract",
+      "value": "<p style='text-align: justify;'>This manuscript, probably completed in 1642, is a copy of the principal work of the 1st century CE medical writer <i>Dioscorides Pedanius, <i>De materia medica</i></i>, with a facing translation in English. The text is an encyclopaedia of medicinal plants and their uses, which became the most used work of its kind and dominated the study of botany and pharmacology in the Greek, Latin and Arabic traditions until the 16th century. An English translation of this text was completed by John Goodyer (1592-1664) in 1655, but the rendering of the text into English here is very different. The manuscript also contains a number of poems in English at its beginning and end.</p><p style='text-align: justify;'>Dr Christopher Wright</p>"
+    },
+    {
+      "label": "Former Owner(s)",
+      "value": "Gale, Roger, 1672-1744"
+    },
+    {
+      "label": "Title",
+      "value": "Dioscorides Pedanius, De materia medica"
+    },
+    {
+      "label": "Author(s) of the Record",
+      "value": "Christopher Wright"
+    },
+    {
+      "label": "Material",
+      "value": "Western paper, folded in quarto. Watermark: <i>Coat of arms</i> ( Watermark height: c. 50 mm, width: 35 mm. ) in the gutter."
+    },
+    {
+      "label": "Collation",
+      "value": "<p>The original endleaves, ff. <a href='' onclick='store.loadPage(9);return false;'>i-ii</a> and <a href='' onclick='store.loadPage(153);return false;'>+1-+2</a> are an integral part of the main quire structure. The manuscript consists of 6 quires, of which one is a binion, one is of twelve folios and the rest were of sixteen folios.</p><p><ul><li>Quires 1-2<sup>16</sup><a href='' onclick='store.loadPage(9);return false;'> ff. i-ii, 1-30</a></li><li>Quire 3<sup>12</sup><a href='' onclick='store.loadPage(73);return false;'> ff. 31-42</a></li><li>Quire 4<sup>16</sup><a href='' onclick='store.loadPage(97);return false;'> ff. 43-58</a></li><li>Quire 5<sup>16-4</sup><a href='' onclick='store.loadPage(129);return false;'> ff. 59-70 </a>The last four folios have been cancelled, without loss of text</li><li>Quire 6<sup>4-2</sup><a href='' onclick='store.loadPage(153);return false;'> ff. +1-+2 </a>The first two folios have been cancelled, without loss of text</li></ul></p>"
+    },
+    {
+      "label": "Classmark",
+      "value": "Cambridge, Trinity College, MS O.7.45"
+    },
+    {
+      "label": "Acquisition",
+      "value": "Donated by the antiquary Roger Gale (1672-1744) in 1738."
+    },
+    {
+      "label": "Additions",
+      "value": "<p>The title \"Chiliades Medicinales Graece et Anglice\" has been written on <a href='' onclick='store.loadPage(11);return false;'>f. ii recto</a>.</p><p>On <a href='' onclick='store.loadPage(13);return false;'>f. 1r</a> are various quotations, rough drawings, the former classmark M.3 411 and the date July 10 1642.</p>"
+    },
+    {
+      "label": "Subject(s)",
+      "value": "Medicine, Greek and Roman"
+    },
+    {
+      "label": "Format",
+      "value": "Codex"
+    },
+    {
+      "label": "Language(s)",
+      "value": "Greek and English"
+    },
+    {
+      "label": "Layout",
+      "value": "A single column of 18-30 lines. Written height: 159-173 mm, width: 100-130 mm."
+    },
+    {
+      "label": "Foliation",
+      "value": "<p>The manuscript is foliated with the numbers [a-c] + i-ii + 1-70 + +1-+2 + [d-f], in pencil, in Arabic and Roman numerals, recto, upper right.</p>"
+    },
+    {
+      "label": "Alternative Identifier(s)",
+      "value": "Diktyon 12014"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<div style='list-style-type: disc;'><div style='display: list-item; margin-left: 20px;' id=\"James1902\">James, M. R. (Montague Rhodes), <i>The western manuscripts in the library of Trinity College : a descriptive catalogue</i>, 4 (Cambridge: Cambridge University Press, 1902) 3.</div></div><br />"
+    }
+  ],
+  "@type": "sc:Manifest",
+  "attribution": "Provided by Cambridge University Library. Zooming image \u00a9 The Master and Fellows of Trinity College, Cambridge. All rights reserved.  Images made available for download are licensed under a Creative Commons Attribution-NonCommercial 4.0 Unported License (CC BY-NC 4.0)   This metadata is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.",
+  "structures": [
+    {
+      "ranges": [
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/range/ITEM-1",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/range/ITEM-2",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/range/ITEM-3"
+      ],
+      "@type": "sc:Range",
+      "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/range/DOCUMENT",
+      "label": "Poems"
+    },
+    {
+      "canvases": [
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/12"
+      ],
+      "@type": "sc:Range",
+      "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/range/ITEM-1",
+      "label": "Poems"
+    },
+    {
+      "canvases": [
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/14",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/15",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/16",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/17",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/18",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/19",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/20",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/21",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/22",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/23",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/24",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/25",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/26",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/27",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/28",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/29",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/30",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/31",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/32",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/33",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/34",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/35",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/36",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/37",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/38",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/39",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/40",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/41",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/42",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/43",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/44",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/45",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/46",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/47",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/48",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/49",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/50",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/51",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/52",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/53",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/54",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/55",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/56",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/57",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/58",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/59",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/60",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/61",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/62",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/63",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/64",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/65",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/66",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/67",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/68",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/69",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/70",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/71",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/72",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/73",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/74",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/75",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/76",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/77",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/78",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/79",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/80",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/81",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/82",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/83",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/84",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/85",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/86",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/87",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/88",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/89",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/90",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/91",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/92",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/93",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/94",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/95",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/96",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/97",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/98",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/99",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/100",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/101",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/102",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/103",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/104",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/105",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/106",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/107",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/108",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/109",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/110",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/111",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/112",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/113",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/114",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/115",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/116",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/117",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/118",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/119",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/120",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/121",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/122",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/123",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/124",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/125",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/126",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/127",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/128",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/129",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/130",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/131",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/132",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/133",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/134",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/135",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/136",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/137",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/138",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/139",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/140",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/141",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/142",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/143",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/144",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/145",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/146",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/147",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/148",
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/149"
+      ],
+      "@type": "sc:Range",
+      "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/range/ITEM-2",
+      "label": "Materia medica"
+    },
+    {
+      "canvases": [
+        "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/153"
+      ],
+      "@type": "sc:Range",
+      "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/range/ITEM-3",
+      "label": "Poems"
+    }
+  ],
+  "description": "<p style='text-align: justify;'>This manuscript, probably completed in 1642, is a copy of the principal work of the 1st century CE medical writer <i>Dioscorides Pedanius, <i>De materia medica</i></i>, with a facing translation in English. The text is an encyclopaedia of medicinal plants and their uses, which became the most used work of its kind and dominated the study of botany and pharmacology in the Greek, Latin and Arabic traditions until the 16th century. An English translation of this text was completed by John Goodyer (1592-1664) in 1655, but the rendering of the text into English here is very different. The manuscript also contains a number of poems in English at its beginning and end.</p><p style='text-align: justify;'>Dr Christopher Wright</p>",
+  "logo": "http://cudl.lib.cam.ac.uk/themeui/theme/images/logo.svg",
+  "@id": "https://sebelmehdi.github.io/annonatate/manifests/iiif/MS-TRINITY-O-00007-00045/manifest.json",
+  "label": "Dioscorides Pedanius, De materia medica (Cambridge, Trinity College, MS O.7.45)",
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00001.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3958,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00001.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/1"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3958,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/1",
+          "label": "left board, outer",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00002.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3958,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00002.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/2"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3958,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/2",
+          "label": "left board, inner",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00003.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00003.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/3"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/3",
+          "label": "[a] recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00004.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00004.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/4"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/4",
+          "label": "[a] verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00005.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00005.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/5"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/5",
+          "label": "[b] recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00006.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00006.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/6"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/6",
+          "label": "[b] verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00007.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00007.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/7"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/7",
+          "label": "[c] recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00008.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00008.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/8"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/8",
+          "label": "[c] verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00009.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00009.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/9"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/9",
+          "label": "i recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00010.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00010.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/10"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/10",
+          "label": "i verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00011.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00011.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/11"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/11",
+          "label": "ii recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00012.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00012.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/12"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/12",
+          "label": "ii verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00013.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00013.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/13"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/13",
+          "label": "1r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00014.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00014.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/14"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/14",
+          "label": "1v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00015.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00015.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/15"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/15",
+          "label": "2r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00016.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00016.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/16"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/16",
+          "label": "2v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00017.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00017.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/17"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/17",
+          "label": "3r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00018.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00018.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/18"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/18",
+          "label": "3v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00019.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00019.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/19"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/19",
+          "label": "4r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00020.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00020.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/20"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/20",
+          "label": "4v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00021.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00021.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/21"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/21",
+          "label": "5r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00022.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00022.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/22"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/22",
+          "label": "5v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00023.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00023.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/23"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/23",
+          "label": "6r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00024.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00024.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/24"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/24",
+          "label": "6v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00025.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00025.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/25"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/25",
+          "label": "7r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00026.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00026.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/26"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/26",
+          "label": "7v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00027.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00027.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/27"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/27",
+          "label": "8r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00028.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00028.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/28"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/28",
+          "label": "8v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00029.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00029.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/29"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/29",
+          "label": "9r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00030.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00030.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/30"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/30",
+          "label": "9v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00031.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00031.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/31"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/31",
+          "label": "10r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00032.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00032.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/32"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/32",
+          "label": "10v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00033.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00033.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/33"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/33",
+          "label": "11r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00034.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00034.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/34"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/34",
+          "label": "11v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00035.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00035.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/35"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/35",
+          "label": "12r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00036.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00036.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/36"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/36",
+          "label": "12v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00037.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00037.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/37"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/37",
+          "label": "13r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00038.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00038.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/38"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/38",
+          "label": "13v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00039.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00039.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/39"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/39",
+          "label": "14r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00040.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00040.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/40"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/40",
+          "label": "14v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00041.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00041.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/41"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/41",
+          "label": "15r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00042.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00042.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/42"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/42",
+          "label": "15v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00043.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00043.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/43"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/43",
+          "label": "16r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00044.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00044.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/44"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/44",
+          "label": "16v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00045.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00045.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/45"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/45",
+          "label": "17r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00046.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00046.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/46"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/46",
+          "label": "17v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00047.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00047.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/47"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/47",
+          "label": "18r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00048.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00048.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/48"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/48",
+          "label": "18v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00049.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00049.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/49"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/49",
+          "label": "19r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00050.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00050.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/50"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/50",
+          "label": "19v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00051.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00051.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/51"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/51",
+          "label": "20r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00052.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00052.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/52"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/52",
+          "label": "20v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00053.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00053.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/53"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/53",
+          "label": "21r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00054.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00054.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/54"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/54",
+          "label": "21v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00055.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00055.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/55"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/55",
+          "label": "22r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00056.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00056.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/56"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/56",
+          "label": "22v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00057.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00057.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/57"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/57",
+          "label": "23r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00058.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00058.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/58"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/58",
+          "label": "23v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00059.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00059.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/59"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/59",
+          "label": "24r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00060.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00060.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/60"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/60",
+          "label": "24v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00061.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00061.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/61"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/61",
+          "label": "25r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00062.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00062.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/62"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/62",
+          "label": "25v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00063.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00063.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/63"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/63",
+          "label": "26r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00064.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00064.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/64"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/64",
+          "label": "26v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00065.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00065.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/65"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/65",
+          "label": "27r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00066.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00066.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/66"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/66",
+          "label": "27v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00067.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00067.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/67"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/67",
+          "label": "28r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00068.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00068.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/68"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/68",
+          "label": "28v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00069.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00069.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/69"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/69",
+          "label": "29r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00070.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00070.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/70"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/70",
+          "label": "29v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00071.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00071.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/71"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/71",
+          "label": "30r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00072.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00072.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/72"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/72",
+          "label": "30v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00073.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00073.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/73"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/73",
+          "label": "31r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00074.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00074.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/74"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/74",
+          "label": "31v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00075.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00075.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/75"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/75",
+          "label": "32r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00076.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00076.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/76"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/76",
+          "label": "32v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00077.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00077.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/77"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/77",
+          "label": "33r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00078.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00078.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/78"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/78",
+          "label": "33v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00079.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00079.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/79"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/79",
+          "label": "34r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00080.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00080.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/80"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/80",
+          "label": "34v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00081.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00081.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/81"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/81",
+          "label": "35r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00082.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00082.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/82"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/82",
+          "label": "35v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00083.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00083.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/83"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/83",
+          "label": "36r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00084.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00084.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/84"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/84",
+          "label": "36v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00085.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00085.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/85"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/85",
+          "label": "37r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00086.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00086.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/86"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/86",
+          "label": "37v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00087.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00087.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/87"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/87",
+          "label": "38r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00088.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00088.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/88"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/88",
+          "label": "38v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00089.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00089.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/89"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/89",
+          "label": "39r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00090.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00090.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/90"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/90",
+          "label": "39v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00091.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00091.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/91"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/91",
+          "label": "40r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00092.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00092.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/92"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/92",
+          "label": "40v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00093.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00093.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/93"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/93",
+          "label": "41r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00094.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00094.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/94"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/94",
+          "label": "41v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00095.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00095.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/95"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/95",
+          "label": "42r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00096.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00096.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/96"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/96",
+          "label": "42v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00097.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00097.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/97"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/97",
+          "label": "43r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00098.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00098.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/98"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/98",
+          "label": "43v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00099.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00099.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/99"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/99",
+          "label": "44r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00100.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00100.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/100"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/100",
+          "label": "44v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00101.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00101.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/101"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/101",
+          "label": "45r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00102.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00102.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/102"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/102",
+          "label": "45v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00103.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00103.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/103"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/103",
+          "label": "46r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00104.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00104.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/104"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/104",
+          "label": "46v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00105.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00105.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/105"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/105",
+          "label": "47r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00106.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00106.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/106"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/106",
+          "label": "47v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00107.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00107.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/107"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/107",
+          "label": "48r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00108.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00108.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/108"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/108",
+          "label": "48v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00109.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00109.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/109"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/109",
+          "label": "49r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00110.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00110.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/110"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/110",
+          "label": "49v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00111.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00111.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/111"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/111",
+          "label": "50r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00112.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00112.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/112"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/112",
+          "label": "50v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00113.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00113.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/113"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/113",
+          "label": "51r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00114.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00114.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/114"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/114",
+          "label": "51v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00115.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00115.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/115"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/115",
+          "label": "52r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00116.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00116.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/116"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/116",
+          "label": "52v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00117.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00117.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/117"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/117",
+          "label": "53r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00118.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00118.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/118"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/118",
+          "label": "53v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00119.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00119.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/119"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/119",
+          "label": "54r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00120.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00120.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/120"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/120",
+          "label": "54v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00121.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00121.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/121"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/121",
+          "label": "55r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00122.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00122.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/122"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/122",
+          "label": "55v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00123.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00123.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/123"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/123",
+          "label": "56r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00124.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00124.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/124"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/124",
+          "label": "56v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00125.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00125.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/125"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/125",
+          "label": "57r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00126.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00126.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/126"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/126",
+          "label": "57v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00127.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00127.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/127"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/127",
+          "label": "58r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00128.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00128.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/128"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/128",
+          "label": "58v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00129.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00129.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/129"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/129",
+          "label": "59r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00130.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00130.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/130"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/130",
+          "label": "59v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00131.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00131.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/131"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/131",
+          "label": "60r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00132.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00132.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/132"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/132",
+          "label": "60v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00133.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00133.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/133"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/133",
+          "label": "61r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00134.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00134.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/134"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/134",
+          "label": "61v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00135.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00135.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/135"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/135",
+          "label": "62r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00136.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00136.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/136"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/136",
+          "label": "62v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00137.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00137.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/137"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/137",
+          "label": "63r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00138.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00138.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/138"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/138",
+          "label": "63v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00139.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00139.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/139"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/139",
+          "label": "64r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00140.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00140.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/140"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/140",
+          "label": "64v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00141.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00141.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/141"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/141",
+          "label": "65r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00142.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00142.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/142"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/142",
+          "label": "65v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00143.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00143.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/143"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/143",
+          "label": "66r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00144.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00144.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/144"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/144",
+          "label": "66v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00145.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00145.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/145"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/145",
+          "label": "67r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00146.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00146.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/146"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/146",
+          "label": "67v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00147.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00147.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/147"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/147",
+          "label": "68r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00148.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00148.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/148"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/148",
+          "label": "68v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00149.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00149.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/149"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/149",
+          "label": "69r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00150.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00150.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/150"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/150",
+          "label": "69v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00151.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00151.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/151"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/151",
+          "label": "70r",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00152.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00152.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/152"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/152",
+          "label": "70v",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00153.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00153.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/153"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/153",
+          "label": "+1 recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00154.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00154.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/154"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/154",
+          "label": "+1 verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00155.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00155.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/155"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/155",
+          "label": "+2 recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00156.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00156.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/156"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/156",
+          "label": "+2 verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00157.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00157.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/157"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/157",
+          "label": "[d] recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00158.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00158.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/158"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/158",
+          "label": "[d] verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00159.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00159.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/159"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/159",
+          "label": "[e] recto",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00160.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3889,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00160.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/160"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3889,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/160",
+          "label": "[e] verso",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00161.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3958,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00161.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/161"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3958,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/161",
+          "label": "right board, inner",
+          "height": 4713
+        },
+        {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00162.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 3958,
+                "@id": "https://images.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045-000-00162.jp2",
+                "height": 4713
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/162"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 3958,
+          "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/canvas/162",
+          "label": "right board, outer",
+          "height": 4713
+        }
+      ],
+      "@type": "sc:Sequence",
+      "@id": "http://cudl.lib.cam.ac.uk/iiif/MS-TRINITY-O-00007-00045/sequence",
+      "label": "Current Page Order"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "seeAlso": "https://services.cudl.lib.cam.ac.uk/v1/metadata/tei/MS-TRINITY-O-00007-00045/"
+}
