@@ -1,0 +1,45 @@
+---
+canvas: "https://ids.si.edu/ids/iiif/FS-5167_07/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Body",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-11-07T14:31:04.988Z",
+            "modified": "2025-11-07T14:31:06.949Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Esteban Oct. 07, 2025",
+            "purpose": "tagging",
+            "creator": {
+                "id": "sebelmehdi",
+                "name": "sebelmehdi"
+            },
+            "created": "2025-11-07T14:31:11.296Z",
+            "modified": "2025-11-07T14:31:31.219Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://ids.si.edu/ids/iiif/FS-5167_07/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=307.0391845703125,654.1740112304688,387.0125732421875,200.524658203125"
+        }
+    },
+    "id": "640336f3-7fbd-4a76-8b74-f2026ad4a351.json",
+    "motivation": "commenting"
+}
